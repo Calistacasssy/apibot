@@ -1,4 +1,4 @@
-mport asyncio
+import asyncio
 import telebot
 import requests
 import json
